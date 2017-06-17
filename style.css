@@ -48,9 +48,6 @@ h1{
 	margin:0;
 }
 
-.footer-col-3 {
-	width: 10%;
-}
 
 .footer-col {
     display: inline-block;
@@ -63,6 +60,11 @@ h1{
 
     color: #DDD;
 }
+
+.footer-col-3 {
+	width: 10%;
+}
+
 
 li{
 	list-style: none;
