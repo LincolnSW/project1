@@ -103,14 +103,7 @@ a{
     line-height: 22px;
 }
 
-.archives a span{
-	font-size: 20px;
-    border-bottom: solid 1px #FFF;
-    position: relative;
-    top: -2px;
-    color:white;
 
-}
 
 .footer-list-item+.footer-list-item {
     margin-top: 14px;
@@ -118,6 +111,15 @@ a{
 
 .archives a{
 	bottom:0;
+}
+
+.archives a span{
+	font-size: 20px;
+    border-bottom: solid 1px #FFF;
+    position: relative;
+    top: -2px;
+    color:white;
+
 }
 
 
